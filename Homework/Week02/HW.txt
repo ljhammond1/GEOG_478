@@ -1,0 +1,17 @@
+1. When was the first operational GIS developed by Roger Tomlinson?
+    a. 1962
+    b. 1972
+    c. 2002
+    d. 1950
+
+2. Which choice best explains the WebGIS tier system?
+    a. server and client
+    b. neither server nor client
+    c. server only
+    d. client only
+
+3. What is not true about interactive features of web maps?
+    a. They are another way to refer to thematic layers. 
+    b. Some web maps allow you to edit GIS data in real time.
+    c. Some web maps allow you to submit a geoprocessing job to the server and see the response drawn on the screen.
+    d. They make the map come alive by providing response to user action.
