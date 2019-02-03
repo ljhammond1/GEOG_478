@@ -1,0 +1,20 @@
+1. In ArcGIS Online's Web App Builder, what element provides a specific functionality with configuration options? 
+These enable core web mapping application capabilities. 
+  a. widget
+  b. HTML extension
+  c. template
+  d. URL
+
+2. What are users free to do with an open-source GIS' source code?
+  a. all of the options are correct
+  b. possess
+  c. modify 
+  d. distribute
+
+3. Which tenant of open standards states: "Decisions are made with equity and fairness among participants. No one party dominates or guides 
+standards development. Standards processes are transparent and opportunities exist to appeal decisions. Processes for periodic standards 
+review and updating are well defined." (adherence to principles)?
+  a. due process
+  b. balance
+  c. broad consensus
+  d. transparency
