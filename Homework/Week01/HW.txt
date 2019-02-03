@@ -1,4 +1,5 @@
-1. What term refers to the command used to fetch and download content from a remote repository and immediately update the local repository to match that content?
+1. What term refers to the command used to fetch and download content from a remote repository and immediately update the local repository 
+to match that content?
     a. git pull
     b. git push
     c. git add 
@@ -10,7 +11,8 @@
     c. HTTP is a pull protocol.
     d. HTTP is a stateless protocol. 
 
-3. Which step of the 4 Layers Model involves a standard that defines how to establish and maintain a network conversation via which application programs can exchange data? 
+3. Which step of the 4 Layers Model involves a standard that defines how to establish and maintain a network conversation via which 
+application programs can exchange data? 
     a. Transport (TCP) layer
     b. Application layer
     c. Internet Protocol (IP) layer
