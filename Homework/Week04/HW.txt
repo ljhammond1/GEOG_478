@@ -1,0 +1,17 @@
+1. What comprises an HTML element?
+    a. starting tag, element content, and closing tag
+    b. starting and ending tag
+    c. title, head, and body 
+    d. starting tag, metadata, ending tag
+
+2. The child element is said to be _____ inside of the _____ element, as described by the HTML hierarchy. 
+    a. nested; parent
+    b. nested; main
+    c. negated; parent
+    d. negated; main
+
+3. Which is untrue about ID Attributes in an HTML file?
+    a. The value does not need be unique within the HTML document and can be used by multiple elements. 
+    b. In CSS, to select an element with a specific id, write a hash (#) character, followed by the id of the element.
+    c. It can be used by CSS and JavaScript to perform certain tasks for a unique element with the specified id value.
+    d. An HTML element can only have one unique id that belongs to that single element.
