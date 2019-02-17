@@ -1,0 +1,19 @@
+1. Which is not a client-side scripting (JavaScript) benefit?
+    a. Security: code which executes on the user's computer rather than on the server is less likely to 
+    be exploited by malware creators
+    b. Usability: can modify a page without having to post back to the server (faster UI)
+    c. Efficiency: can make small, quick changes to page without waiting for server
+    d. Event-driven: can respond to user actions like clicks and key presses
+
+2. Which of the following incorrectly describes JavaScript syntax?
+    a. Scripts can be placed in the <body > or in the <head > section of an HTML page, but not in both.
+    b. In HTML, JavaScript code must be inserted between <script > and </script > tags.
+    c. Scripts can be placed in the <body >, or in the <head > section of an HTML page, or in both.
+    d. Script can also be placed in external files, and saved as .js file. External scripts are practical 
+    when the same code is used in many different web pages.
+
+3. Which is not true of JavaScript and Java?
+    a. Errors are often silent (few exceptions) in Java. 
+    b. Java and JavaScript are two completely different languages in both concept and design.
+    c. Java is a powerful and much more complex programming language.
+    d. Variables don't need to be declared in JavaScript.
