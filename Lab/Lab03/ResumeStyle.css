@@ -1,12 +1,12 @@
 body{
     background-color: #ebebeb;
-    margin: 40px 50px 40px 50px;
+    margin: 30px 40px 30px 40px;
     }
 
 h1 {
     font-family: Arial;
     color: midnightblue; 
-    font-size: 30pt;
+    font-size: 26pt;
 
   }
 
@@ -20,7 +20,7 @@ h2 {
 h3 {
     font-family: Arial;
     color:black;
-    font-size: 14pt;
+    font-size: 12pt;
 
   }
 
