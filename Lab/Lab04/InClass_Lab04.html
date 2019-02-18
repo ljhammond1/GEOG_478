@@ -53,7 +53,10 @@
         alert("You clicked the map at " + e.latlng);
       }
 
-mymap.on('click', onMapClick);
+    mymap.on('click', onMapClick);
+
+    mymap.locate({setView: true, maxZoom: 16});
+    
 	</script>
   </body>
 </html>
