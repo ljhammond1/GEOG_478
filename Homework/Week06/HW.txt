@@ -1,0 +1,17 @@
+1. Leaflet.js is an open-source library using which we can deploy what type of web maps?
+    a. All options are correct
+    b. Simple
+    c. Interactive
+    d. Lightweight
+
+2. Which type of JavaScript loop loops through the properties of an object with the block of code executing one time for each property?
+    a. For/in
+    b. For
+    c. While
+    d. Do/while
+
+3. While instantiating ______ you need to pass an URL template requesting the desired map from the service provider, in the form of a string variable. 
+    a. A Leaflet TileLayer class
+    b. A Leaflet marker ID
+    c. An external CSS file
+    d. A multi-polyline
