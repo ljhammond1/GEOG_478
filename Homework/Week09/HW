@@ -1,0 +1,19 @@
+1. What refers to the name that will appear below your Default Web Site structure?
+    a. Alias
+    b. Physical Path
+    c. Add Application Window
+    d. DefaultAppPool
+
+
+2. What defines a group of one or more worker processes, configured with common settings that serve requests to one or more applications that are assigned to that application pool.
+    a. Application Pool
+    b. ﻿Default Web Site﻿
+    c. Internet Information Services Manager﻿
+    d. .NET Framework
+
+
+3. What server-side backend exists to complement an ASP(X) page?
+    a. C#
+    b. C++
+    c. Python
+    d. R
