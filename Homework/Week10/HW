@@ -1,0 +1,17 @@
+1. The ArcGIS ______ brings together all the geographic information in your ArcGIS platform and shares it throughout your organization.
+    a. Enterprise portal
+    b. online account
+    c. data repository
+    d. software package
+
+2. ArcGIS Data Store is an application that lets you easily configure data storage for the hosting server used with your portal. Which of the following is not one of the 3 types of data stores?
+    a. Code snippet data store
+    b. Relational data store
+    c. Tile cache data store
+    d. Spatiotemporal big data store
+
+3. What component of ArcGIS Enterprise allows you to provide a single endpoint that distributes incoming requests to the ArcGIS Server machines in your site.
+    a. Web Adapter
+    b. Data Store
+    c. Portal
+    d. Map Viewer
