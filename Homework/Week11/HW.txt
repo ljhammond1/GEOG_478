@@ -1,0 +1,17 @@
+1. Which of the following does Google Earth Engine combine to create a powerful cloud-based tool?
+    A. all of the above
+    B. a multi-petabyte catalog of satellite imagery
+    C. geospatial datasets
+    D. planetary-scale analysis capabilities
+
+2. “[Google Earth Engine's] ______ is a just in time distributed computation model, a cloud-based processing infrastructure that automatically parallelizes analyses on many CPUs across many computers in Google’s data centers.”
+    A. computation engine
+    B. graphical user interface
+    C. algorithm library
+    D. fusion table
+
+3. Which of the following is an advantage of Google Earth Engine?
+    A. none of the above
+    B. it's better suited to image analyses than vector-based analyses
+    C. analysis is based on pixel spatial relations are harder to complete (because of the processing on multiple CPUS)
+    D. image segmentation and hydrologic modeling options are limited or in testing phases
