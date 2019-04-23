@@ -1,0 +1,17 @@
+1. What are packets of geographic data, packaged into pre-defined roughly-square shaped "tiles" for transfer over the web?
+    a. vector tiles
+    b. mosaics
+    c. raster tiles
+    d. operational layer
+
+2. Which of the following does not describe MapBox?
+    a. Can be generated much more quickly, and with fewer hardware resources, than corresponding raster tiles
+    b. It is a large provider of custom online maps for websites and application such as Lonely planet, Facebook, The Weather Channel
+    c. A cloud-based map hosting service
+    d. Provide a set of tools for design and deployment of map tiles
+
+3. Mapbox GL JS is a ______ library that uses ______ to render interactive maps from vector tiles and mapbox styles.
+    a. JavaScript; WebGL
+    b. JavaScript; HTML
+    c. Python; WebGL
+    d. Python; HTML
