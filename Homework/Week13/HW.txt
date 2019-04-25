@@ -1,0 +1,17 @@
+1. ______ is an app you access through your portal that allows you to perform iterative and exploratory data analysis on ArcGIS web services, Excel spreadsheets, and data stored in databases.
+    a. Insights for ArcGIS
+    b. Web App Builder
+    c. Google Earth Engine
+    d. Arc Catalog
+
+2. When adding data to a workbook in ArcGIS Insights, layers/tables/views are added as what, by default?
+    a. A Separate Dataset
+    b. Combined Datasets
+    c. Hosted Feature Layers
+    d. A Separate Widget
+
+3. Which of the following analytic operations can be done in ArcGIS Insights?
+    a. All Options are Correct
+    b. Field Calculations, Enrichments, and Summary Statistics
+    c. Spatial Analyses
+    d. Data Analyses
